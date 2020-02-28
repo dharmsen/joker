@@ -1,0 +1,2 @@
+# joker
+Artificially generated jokes
